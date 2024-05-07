@@ -1,3 +1,5 @@
+Größenbezeichnungen siehe -> [[Circular Movement]]
+
 Gegeben:
 $$T = 0.42\space s \space\space\space 
 U = 2.32\space m$$
