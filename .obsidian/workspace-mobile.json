@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Circular Movement.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98678fc6e3b4bba2",
+            "id": "eafdf38bb9f02d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiment Kreisbewegung.md",
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56682d0bc031accc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Bible Studies/Bible.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/Circular Movement.md",
+            "file": "Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/Circular Movement.md",
+            "file": "Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/Circular Movement.md"
+            "file": "Index.md"
           }
         }
       }
@@ -145,10 +157,27 @@
   },
   "active": "4264ee29994430f5",
   "lastOpenFiles": [
-    "Experiment Kreisbewegung.md",
-    "School/Circular Movement.md",
-    "Personal/Journaling Prompts.md",
+    "Index.md",
+    "Personal/Bible Studies/Bible.md",
     "Personal/Journal Entries/2024-05-06.md",
+    "Personal/Journal Entries/2024-05-07.md",
+    "Personal/Journal Entries/2024-05-12.md",
+    "Personal/Journal Entries/2024-05-14.md",
+    "Personal/Journal Entries/Untitled.md",
+    "Inbox.md",
+    "Active Recall.md",
+    "/Personal/Journal Entries/2024-05-12.md",
+    "Personal/Bible Studies/Holy Spirit.md",
+    "Personal/Bible Studies/Psalm 19,11-14.md",
+    "School/Circular Movement.md",
+    "Personal/Lust.md",
+    "School/Experiment Kreisbewegung.md",
+    "/School/Experiment Kreisbewegung.md",
+    "/Personal/Lust.md",
+    "/Personal/Journal Entries/2024-05-07.md",
+    "/Personal/Bible Studies/God.md",
+    "Experiment Kreisbewegung.md",
+    "Personal/Journaling Prompts.md",
     "Personal/Journal Entries",
     "/Personal/Journaling Prompts.md",
     "/Personal/Journal Entries/2024-05-06.md",
@@ -156,26 +185,9 @@
     "Personal/Calisthenics.md",
     "Personal/Distraction.md",
     "Dark Forest Theory.md",
-    "Personal/Priorities.md",
-    "Personal/Media.md",
-    "Personal/Brain Fog.md",
-    "Personal/Journaling (Huberman Lab Podcast Summary, due for revision).md",
-    "Personal/Routine.md",
-    "Personal/Dark Forest Theory.md",
-    "Personal/Sleep.md",
-    "Personal/Health Tracker.md",
-    "Personal/Goals 2024.md",
     "Personal",
     "School",
-    "Personal/Learning verses by heart.md",
-    "Personal/Hell.md",
-    "Personal/Studying.md",
-    "Personal/Bible Studies/Psalm 19,11-14.md",
-    "Personal/Bible Studies/Bible.md",
-    "Personal/Bible Studies/Fear.md",
-    "Personal/Bible Studies/Holy Spirit.md",
     "Personal/Bible Studies",
-    "School/Studying and Concentration.md",
     "/School",
     "/Personal/Bible Studies",
     "/Personal"
