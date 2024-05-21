@@ -12,7 +12,7 @@ Hot shower before bed, Cold shower after bed.
 Hot milk with cinnamon is a natural melatonin source.
 
 #### Expert's Guide
-In Dr. Matt Walker's talk "The Biology of Sleep & Your Unique Sleep Needs," he delves into the science of sleep and how it impacts our health and well-being. Here's a summary along with practical tips based on the content:
+In Dr. Matt Walker's talk "The Biology of Sleep & Your Unique Sleep Needs," he delves into the science of sleep and how it impacts our health and well-being. 
 
 1. **Understanding Sleep Cycles**: Sleep consists of cycles, including REM (Rapid Eye Movement) and non-REM stages. Each cycle serves different purposes for memory consolidation, cognitive function, and physical restoration.
 
@@ -38,4 +38,3 @@ In Dr. Matt Walker's talk "The Biology of Sleep & Your Unique Sleep Needs," he d
 
    - **Practical Tip**: ==Prioritise sleep as a crucial component of self-care and mental health maintenance. Seek professional help if you experience persistent sleep disturbances or mental health challenges affecting your sleep.==
 
-Overall, Dr. Matt Walker's insights emphasise the importance of prioritising sleep for overall health and well-being and offer practical tips for optimising sleep quality and duration based on individual needs.

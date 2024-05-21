@@ -4,12 +4,14 @@ When you give in to lust, you dishonour yourself and [[God]].
 You create a distance between yourself and God.
 You defile yourself and sin not against others except the God who made you, but against yourself.
 
+Lust already happens in your heart as soon as you look at a person with lustful intent. It is the exact same moral burden as actually sleeping with someone's spouse, it is adultery, says Jesus in Mt 5:28.
+
 The [[Bible]] calls for you to live in holiness and honour (1 Thessalonians 4:3-8)
 and states that a believer who walks in the [[Holy Spirit]] is ought to "know how to control his own body in holiness and honour" (4:4).
 
 By immersing into sexual immorality you disregard not just a [[Law|law]], but God who gave you the Spirit (4:8) and **created you not to use your organs for your own sake, but His.**
 
-A way to escape Lust is meditating on God's word. Focusing on what God says. Keeping in step with the Spirit (Galatians 5:25).
+The only way to escape lust is keeping in step with the Spirit (Galatians 5:25).
 
 ## What are the physical consequences of practising sexual immorality?
 

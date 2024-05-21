@@ -2,7 +2,7 @@ The art of exercise with only your own body weight.
 
 > Pull-ups, Push-ups and [[Squats]] reign. Also do back bridges and crawling.
 
-It also involves a high amount of flexibility (for my desk jockey ass).
+It also involves a high amount of flexibility (for my desk jockey body).
 
 #### Detailed plan
 
