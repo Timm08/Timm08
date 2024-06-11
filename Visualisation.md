@@ -1,0 +1,1 @@
+[[Piano Practise with Elaboration]] -> playing or practising away from the piano, just moving the fingers and applying a mental image of practising/hearing the notes. If the real part is left out, it is just mental practise.

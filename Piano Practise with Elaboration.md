@@ -1,0 +1,19 @@
+- [[Music Theory]]
+	- [[Structural Analysis]]
+	- [[Harmony]] and [[Chord Progressions]]
+- Connection to previously played pieces and their practise
+	- similar techniques, patterns, styles
+	- linking to [[Scales]] and [[Drills]]
+- Contextualisation
+	- Historical as well as composer context (mostly found in their biographies)
+	- Interpretative choices (unfortunately useless in [[Jazz]])
+- Mental Mapping (always afk)
+	- [[Visualisation]] of practising the piece (like playing on a desk without making any music)
+	- Mental practise
+- [[Feynman-Method]]
+- [[Technique]]
+	- [[Drills]] chosen or created for the piece
+	- Varied rhythm (swing is always good), dynamic, tempo
+- Narrative/Emotional Connection
+- Regular review of the course of practising ([[Journaling Prompts]])
+- Critical Replay

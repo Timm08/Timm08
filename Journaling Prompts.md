@@ -1,4 +1,5 @@
-[[Journaling (Huberman Lab Podcast Summary, due for revision)]]
+[[Piano Practise with Elaboration]]
+-> Things you successfully practised in the current piece
 
 --- 
 ### Lists

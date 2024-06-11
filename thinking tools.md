@@ -6,6 +6,8 @@
    Criticising an idea. Looking up other descriptions in contrast and for disproving ideas. Spotting patterns and distinctions made by others to (successfully spotted) frames provided by the idea.
 4. **Deeper Research**
    Looking up other theories in relation to the idea. Reinforcing the idea with facts.
+5. **Elaboration**
+   Thinking about the purpose of the idea.
 
 ### Preconditions to employment
 
